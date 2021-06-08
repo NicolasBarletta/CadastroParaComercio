@@ -1,0 +1,28 @@
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.csprojAssemblyReference.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.addCliente.resources
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.addProduto.resources
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.menu.resources
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.listaCliente.resources
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.listaProduto.resources
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.Properties.Resources.resources
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.csproj.GenerateResource.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\CozinhaDaCelina\bin\Debug\CozinhaDaCelina.exe.config
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\CozinhaDaCelina\bin\Debug\CozinhaDaCelina.exe
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\CozinhaDaCelina\bin\Debug\CozinhaDaCelina.pdb
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.exe
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.pdb
+D:\PC2021\TestesCSharp\CozinhaDaCelina\bin\Debug\CozinhaDaCelina.exe.config
+D:\PC2021\TestesCSharp\CozinhaDaCelina\bin\Debug\CozinhaDaCelina.exe
+D:\PC2021\TestesCSharp\CozinhaDaCelina\bin\Debug\CozinhaDaCelina.pdb
+D:\PC2021\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.csprojAssemblyReference.cache
+D:\PC2021\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.addCliente.resources
+D:\PC2021\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.addProduto.resources
+D:\PC2021\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.menu.resources
+D:\PC2021\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.listaCliente.resources
+D:\PC2021\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.listaProduto.resources
+D:\PC2021\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.Properties.Resources.resources
+D:\PC2021\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.csproj.GenerateResource.cache
+D:\PC2021\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.csproj.CoreCompileInputs.cache
+D:\PC2021\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.exe
+D:\PC2021\TestesCSharp\CozinhaDaCelina\obj\Debug\CozinhaDaCelina.pdb
